@@ -32,24 +32,25 @@ export type Tenant = {
 
 export const tenants: Tenant[] = [
   {
+    id: "grunba",
+    name: "Grunba Test Example",
+    color: "#7c3aed",
+    tagline: "Book your session in seconds.",
+    customDomains: ["grunba.tenfold.studio"],
+  },
+  {
     id: "acme",
     name: "Acme Salon",
     color: "#e11d48",
     tagline: "Cuts, color, and good vibes.",
-    customDomains: ["acmebooking.com", "www.acmebooking.com"],
+    // domain is acme.nexusstudios.eu
   },
   {
     id: "globex",
     name: "Globex Dental",
     color: "#0ea5e9",
     tagline: "Brighter smiles, booked in seconds.",
-    customDomains: ["globexdental.com"],
-  },
-  {
-    id: "initech",
-    name: "Initech Auto",
-    color: "#16a34a",
-    tagline: "Service appointments without the hold music.",
+    // domain is globex.nexusstudios.eu
   },
 ];
 
