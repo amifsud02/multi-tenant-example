@@ -72,6 +72,7 @@ export default function BusinessMap({
   useEffect(() => {
     if (!token || !containerRef.current) return;
     let map: MapboxMap | undefined;
+    let ro: ResizeObserver | undefined;
 
     (async () => {
       const mapboxgl = (await import("mapbox-gl")).default;
@@ -173,12 +174,19 @@ export default function BusinessMap({
           });
         }
 
+        map!.resize();
         readyRef.current = true;
       });
+
+      // The map sits low on the page, so its container often isn't at its final
+      // height when Mapbox measures it — keep the canvas in sync with the box.
+      ro = new ResizeObserver(() => map?.resize());
+      ro.observe(containerRef.current!);
     })();
 
     return () => {
       readyRef.current = false;
+      ro?.disconnect();
       popupRef.current?.remove();
       map?.remove();
       mapRef.current = null;
