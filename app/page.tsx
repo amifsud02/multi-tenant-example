@@ -19,6 +19,13 @@ export default function Home() {
           directly.
         </p>
 
+        <a
+          href="/marketplace"
+          className="mt-4 inline-flex items-center gap-2 rounded-full bg-black px-4 py-2 text-sm font-medium text-white transition-opacity hover:opacity-90 dark:bg-zinc-50 dark:text-black"
+        >
+          Browse the business marketplace →
+        </a>
+
         <ul className="mt-8 flex flex-col gap-4">
           {tenants.map((tenant) => {
             const subdomainUrl = `${protocol}://${tenant.id}.${rootDomain}`;

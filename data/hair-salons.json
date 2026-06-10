@@ -1,0 +1,5685 @@
+{
+  "source": "OpenStreetMap via Overpass API",
+  "license": "ODbL — https://www.openstreetmap.org/copyright",
+  "query": {
+    "shop": [
+      "hairdresser",
+      "beauty"
+    ],
+    "area": null,
+    "bbox": null
+  },
+  "generatedAt": "2026-06-10T07:45:41.056Z",
+  "count": 216,
+  "byCategory": {
+    "hairdresser": 154,
+    "beauty": 62
+  },
+  "salons": [
+    {
+      "osmId": "node/1156268231",
+      "type": "node",
+      "category": "hairdresser",
+      "name": null,
+      "lat": 35.8835104,
+      "lon": 14.3937462,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "check_date": "2026-03-10",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/1245326746",
+      "type": "node",
+      "category": "hairdresser",
+      "name": null,
+      "lat": 35.8729906,
+      "lon": 14.5232864,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/1245326747",
+      "type": "node",
+      "category": "hairdresser",
+      "name": null,
+      "lat": 35.8720907,
+      "lon": 14.5234795,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/2216629731",
+      "type": "node",
+      "category": "hairdresser",
+      "name": null,
+      "lat": 35.8933091,
+      "lon": 14.4624605,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/2869975692",
+      "type": "node",
+      "category": "hairdresser",
+      "name": null,
+      "lat": 35.9076905,
+      "lon": 14.4320106,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/4639399078",
+      "type": "node",
+      "category": "hairdresser",
+      "name": null,
+      "lat": 35.9485748,
+      "lon": 14.4167335,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/7001069800",
+      "type": "node",
+      "category": "hairdresser",
+      "name": null,
+      "lat": 35.9536643,
+      "lon": 14.4216214,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/7002875615",
+      "type": "node",
+      "category": "beauty",
+      "name": null,
+      "lat": 35.946583,
+      "lon": 14.4101118,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/7027218994",
+      "type": "node",
+      "category": "hairdresser",
+      "name": null,
+      "lat": 36.0712445,
+      "lon": 14.2602022,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/7037735281",
+      "type": "node",
+      "category": "hairdresser",
+      "name": null,
+      "lat": 35.947507,
+      "lon": 14.4095216,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/7037910568",
+      "type": "node",
+      "category": "hairdresser",
+      "name": null,
+      "lat": 35.9512688,
+      "lon": 14.4121213,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/7037911827",
+      "type": "node",
+      "category": "beauty",
+      "name": null,
+      "lat": 35.9510002,
+      "lon": 14.4107706,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/7037949605",
+      "type": "node",
+      "category": "hairdresser",
+      "name": null,
+      "lat": 35.9510951,
+      "lon": 14.4149127,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/7038489245",
+      "type": "node",
+      "category": "hairdresser",
+      "name": null,
+      "lat": 35.9095817,
+      "lon": 14.4264687,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "check_date": "2026-01-06",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/7047818516",
+      "type": "node",
+      "category": "hairdresser",
+      "name": null,
+      "lat": 35.9233689,
+      "lon": 14.4758928,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/7188991293",
+      "type": "node",
+      "category": "hairdresser",
+      "name": null,
+      "lat": 35.9103857,
+      "lon": 14.4785125,
+      "address": {
+        "housenumber": "110",
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": "110"
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "addr:housenumber": "110",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/7193701205",
+      "type": "node",
+      "category": "hairdresser",
+      "name": null,
+      "lat": 35.9089301,
+      "lon": 14.4802226,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/7196251933",
+      "type": "node",
+      "category": "hairdresser",
+      "name": null,
+      "lat": 35.948405,
+      "lon": 14.4022032,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "check_date": "2025-09-21",
+        "female": "yes",
+        "male": "yes",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/7196251934",
+      "type": "node",
+      "category": "hairdresser",
+      "name": null,
+      "lat": 35.9480674,
+      "lon": 14.4086433,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/7234694907",
+      "type": "node",
+      "category": "beauty",
+      "name": null,
+      "lat": 35.9556193,
+      "lon": 14.3645368,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/7253124795",
+      "type": "node",
+      "category": "beauty",
+      "name": null,
+      "lat": 35.9546705,
+      "lon": 14.367259,
+      "address": {
+        "housenumber": "148",
+        "street": "Triq il-Fortizza",
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": "148 Triq il-Fortizza"
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "addr:housenumber": "148",
+        "addr:street": "Triq il-Fortizza",
+        "beauty": "nails",
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/7257553417",
+      "type": "node",
+      "category": "hairdresser",
+      "name": null,
+      "lat": 35.8886718,
+      "lon": 14.4936913,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/7257553428",
+      "type": "node",
+      "category": "hairdresser",
+      "name": null,
+      "lat": 35.8919683,
+      "lon": 14.4873759,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/7272881011",
+      "type": "node",
+      "category": "hairdresser",
+      "name": null,
+      "lat": 35.9475405,
+      "lon": 14.4064478,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": "Tu-Th 09:00-18:00; Fr,Sa 09:00-19:00",
+      "tags": {
+        "check_date": "2025-08-21",
+        "female": "yes",
+        "opening_hours": "Tu-Th 09:00-18:00; Fr,Sa 09:00-19:00",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/7272881024",
+      "type": "node",
+      "category": "hairdresser",
+      "name": null,
+      "lat": 35.9483351,
+      "lon": 14.4041515,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "check_date": "2025-08-28",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/11439618270",
+      "type": "node",
+      "category": "hairdresser",
+      "name": null,
+      "lat": 35.9134399,
+      "lon": 14.5066177,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "check_date": "2025-06-26",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/12570337852",
+      "type": "node",
+      "category": "hairdresser",
+      "name": null,
+      "lat": 36.0394443,
+      "lon": 14.2409927,
+      "address": {
+        "housenumber": null,
+        "street": "Triq Karolina Cauchi",
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": "Triq Karolina Cauchi"
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": "Tu-Sa 09:00-19:00",
+      "tags": {
+        "addr:street": "Triq Karolina Cauchi",
+        "mobile": "+356 9920 8228",
+        "opening_hours": "Tu-Sa 09:00-19:00",
+        "operator": "O'Hair",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/13234062360",
+      "type": "node",
+      "category": "hairdresser",
+      "name": null,
+      "lat": 35.8963517,
+      "lon": 14.466164,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "check_date": "2025-10-15",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/13236004488",
+      "type": "node",
+      "category": "hairdresser",
+      "name": null,
+      "lat": 35.905573,
+      "lon": 14.4265288,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "check_date": "2026-05-22",
+        "hairdresser": "barber",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/13698237801",
+      "type": "node",
+      "category": "beauty",
+      "name": null,
+      "lat": 35.8930241,
+      "lon": 14.4558285,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/13798982845",
+      "type": "node",
+      "category": "beauty",
+      "name": null,
+      "lat": 35.8937647,
+      "lon": 14.4602621,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "beauty": "nails",
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "way/980743114",
+      "type": "way",
+      "category": "hairdresser",
+      "name": null,
+      "lat": 35.9094973,
+      "lon": 14.4264461,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "building": "apartments",
+        "check_date": "2026-01-06",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/13235996481",
+      "type": "node",
+      "category": "beauty",
+      "name": "2N Beauty Studio",
+      "lat": 35.9152397,
+      "lon": 14.4471991,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "check_date": "2025-10-16",
+        "name": "2N Beauty Studio",
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/13169275160",
+      "type": "node",
+      "category": "beauty",
+      "name": "A Touch of Polish",
+      "lat": 36.0272153,
+      "lon": 14.2902274,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "addr:place": "Pjazza Indipendenza",
+        "beauty": "nails",
+        "name": "A Touch of Polish",
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/7002809585",
+      "type": "node",
+      "category": "beauty",
+      "name": "Allure",
+      "lat": 35.9531298,
+      "lon": 14.418873,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "name": "Allure",
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/11924969890",
+      "type": "node",
+      "category": "beauty",
+      "name": "Amis",
+      "lat": 35.8980982,
+      "lon": 14.5131606,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "check_date": "2025-10-16",
+        "name": "Amis",
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/12478273484",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Annie's Salon",
+      "lat": 36.0431342,
+      "lon": 14.2401368,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "name": "Annie's Salon",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/7899571647",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Antonio's Barbershop",
+      "lat": 35.8969136,
+      "lon": 14.4564026,
+      "address": {
+        "housenumber": "21",
+        "street": "Triq Birbal",
+        "city": "Ħal Balzan",
+        "postcode": null,
+        "country": "MT",
+        "full": "21 Triq Birbal, Ħal Balzan, MT"
+      },
+      "phone": null,
+      "website": "https://antoniosbarber.com/",
+      "email": "info@antoniosbarber.com",
+      "openingHours": "Mo-Fr 09:00-18:00; Sa 09:00-14:00; PH off",
+      "tags": {
+        "addr:city": "Ħal Balzan",
+        "addr:country": "MT",
+        "addr:housenumber": "21",
+        "addr:street": "Triq Birbal",
+        "check_date": "2025-08-28",
+        "contact:facebook": "https://www.facebook.com/AntoniosBarberShop/",
+        "contact:instagram": "https://www.instagram.com/antoniosbarber/",
+        "contact:linkedin": "https://www.linkedin.com/company/antonios-barber-shop/",
+        "contact:youtube": "https://www.youtube.com/channel/UClLcs6UJfnoNFv2DnTrmULA",
+        "email": "info@antoniosbarber.com",
+        "mobile": "+356 9937 4443",
+        "name": "Antonio's Barbershop",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-14:00; PH off",
+        "shop": "hairdresser",
+        "website": "https://antoniosbarber.com/"
+      }
+    },
+    {
+      "osmId": "node/12453623801",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Antonio's Barbershop",
+      "lat": 35.902305,
+      "lon": 14.4800626,
+      "address": {
+        "housenumber": null,
+        "street": "Triq Roberto Ranieri Costaguti",
+        "city": "L-Imsida",
+        "postcode": "MSD 2070",
+        "country": "MT",
+        "full": "Triq Roberto Ranieri Costaguti, MSD 2070, L-Imsida, MT"
+      },
+      "phone": null,
+      "website": null,
+      "email": "info@antoniosbarber.com",
+      "openingHours": "Mo-Sa 09:00-19:00",
+      "tags": {
+        "addr:city": "L-Imsida",
+        "addr:country": "MT",
+        "addr:housename": "Campus Hub Block E",
+        "addr:postcode": "MSD 2070",
+        "addr:street": "Triq Roberto Ranieri Costaguti",
+        "check_date": "2026-03-26",
+        "email": "info@antoniosbarber.com",
+        "hairdresser": "barber",
+        "male": "yes",
+        "mobile": "+356 9937 4443",
+        "name": "Antonio's Barbershop",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "shop": "hairdresser",
+        "source": "https://campushubmalta.com/antonios-barber-shop/"
+      }
+    },
+    {
+      "osmId": "node/13907514948",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Aphrodite Unisex Salon",
+      "lat": 35.8779958,
+      "lon": 14.4637102,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "name": "Aphrodite Unisex Salon",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/4193020912",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Avant Garde Hair and Beauty Salon",
+      "lat": 35.8744298,
+      "lon": 14.5248089,
+      "address": {
+        "housenumber": null,
+        "street": "Vjal il-Kottoner",
+        "city": "Il-Fgura",
+        "postcode": null,
+        "country": "MT",
+        "full": "Vjal il-Kottoner, Il-Fgura, MT"
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "addr:city": "Il-Fgura",
+        "addr:country": "MT",
+        "addr:street": "Vjal il-Kottoner",
+        "name": "Avant Garde Hair and Beauty Salon",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/12669392946",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "B&S Hair & Beauty",
+      "lat": 35.8821661,
+      "lon": 14.522578,
+      "address": {
+        "housenumber": "51",
+        "street": "Triq il-Gendus",
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": "51 Triq il-Gendus"
+      },
+      "phone": null,
+      "website": "https://book.heygoldie.com/B-S-BARBER",
+      "email": null,
+      "openingHours": "Tu-Sa 10:00-18:30",
+      "tags": {
+        "addr:housenumber": "51",
+        "addr:street": "Triq il-Gendus",
+        "mobile": "+356 9961 5021",
+        "name": "B&S Hair & Beauty",
+        "opening_hours": "Tu-Sa 10:00-18:30",
+        "shop": "hairdresser",
+        "website": "https://book.heygoldie.com/B-S-BARBER"
+      }
+    },
+    {
+      "osmId": "node/12855680051",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Barber's Den",
+      "lat": 35.9104132,
+      "lon": 14.4249818,
+      "address": {
+        "housenumber": null,
+        "street": "Triq il-Parroċċa",
+        "city": "Il-Mosta",
+        "postcode": null,
+        "country": null,
+        "full": "Triq il-Parroċċa, Il-Mosta"
+      },
+      "phone": null,
+      "website": "https://barbersden.simplybook.it/v2/",
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "addr:city": "Il-Mosta",
+        "addr:street": "Triq il-Parroċċa",
+        "air_conditioning": "yes",
+        "check_date": "2026-03-19",
+        "contact:facebook": "https://www.facebook.com/people/Barbers-Den/61559661522154/",
+        "hairdresser": "barber",
+        "internet_access": "wlan",
+        "mobile": "+356 7964 0645",
+        "name": "Barber's Den",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "hairdresser",
+        "toilets": "yes",
+        "website": "https://barbersden.simplybook.it/v2/"
+      }
+    },
+    {
+      "osmId": "node/11924999145",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Barbers Arch",
+      "lat": 35.8982452,
+      "lon": 14.5131919,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "check_date": "2025-10-16",
+        "male": "yes",
+        "name": "Barbers Arch",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/13092573225",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Barbetti Barbers",
+      "lat": 35.9523087,
+      "lon": 14.3869281,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "check_date": "2025-08-23",
+        "hairdresser": "barber",
+        "name": "Barbetti Barbers",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/13643535161",
+      "type": "node",
+      "category": "beauty",
+      "name": "Beauty Team",
+      "lat": 35.9084701,
+      "lon": 14.4237677,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "check_date": "2026-03-12",
+        "name": "Beauty Team",
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/13169275162",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Belmont Hairdressing",
+      "lat": 36.0271152,
+      "lon": 14.2903241,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": "Għajnsielem",
+        "postcode": null,
+        "country": null,
+        "full": "Għajnsielem"
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "addr:city": "Għajnsielem",
+        "name": "Belmont Hairdressing",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/6324965424",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Blyth's Coiffure Hair Salon",
+      "lat": 35.8770861,
+      "lon": 14.3980179,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "name": "Blyth's Coiffure Hair Salon",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/13167028315",
+      "type": "node",
+      "category": "beauty",
+      "name": "Bold Studio",
+      "lat": 35.9000602,
+      "lon": 14.4556835,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "beauty": "nails",
+        "check_date": "2025-09-24",
+        "name": "Bold Studio",
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/13167029142",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Bottega dei Barbieri",
+      "lat": 35.9055126,
+      "lon": 14.4320439,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "check_date": "2026-03-19",
+        "hairdresser": "barber",
+        "name": "Bottega dei Barbieri",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/12344565270",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Brother's blade",
+      "lat": 35.9120937,
+      "lon": 14.5036153,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": "Mo-Sa 09:00-20:00",
+      "tags": {
+        "contact:instagram": "https://www.instagram.com/brothers_blade_barber/",
+        "mobile": "+35 69 955 47 51",
+        "name": "Brother's blade",
+        "opening_hours": "Mo-Sa 09:00-20:00",
+        "shop": "hairdresser",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "osmId": "node/12652089715",
+      "type": "node",
+      "category": "beauty",
+      "name": "Carissima",
+      "lat": 35.8882124,
+      "lon": 14.5213892,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "name": "Carissima",
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/11917416189",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Cascun Hair Studio",
+      "lat": 35.9050747,
+      "lon": 14.4192607,
+      "address": {
+        "housenumber": null,
+        "street": "Triq ir-Rifuġjati tal-Gwerra",
+        "city": "Il-Mosta",
+        "postcode": "MST 3851",
+        "country": "MT",
+        "full": "Triq ir-Rifuġjati tal-Gwerra, MST 3851, Il-Mosta, MT"
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": "Tu 10:00-18:00; We 09:00-13:00; Th 10:00-19:00; Fr 09:00-18:00; Sa 09:00-16:00",
+      "tags": {
+        "addr:city": "Il-Mosta",
+        "addr:country": "MT",
+        "addr:postcode": "MST 3851",
+        "addr:street": "Triq ir-Rifuġjati tal-Gwerra",
+        "check_date": "2026-03-19",
+        "female": "yes",
+        "male": "yes",
+        "name": "Cascun Hair Studio",
+        "opening_hours": "Tu 10:00-18:00; We 09:00-13:00; Th 10:00-19:00; Fr 09:00-18:00; Sa 09:00-16:00",
+        "shop": "hairdresser",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "osmId": "node/4515121397",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Cassy",
+      "lat": 35.873639,
+      "lon": 14.5194537,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "name": "Cassy",
+        "name:en": "Cassy",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/3327462543",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Chic Hair And Makeup",
+      "lat": 35.9127925,
+      "lon": 14.4863591,
+      "address": {
+        "housenumber": "39",
+        "street": "Triq Diodorus Siculus",
+        "city": "San Ġiljan",
+        "postcode": null,
+        "country": "MT",
+        "full": "39 Triq Diodorus Siculus, San Ġiljan, MT"
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "addr:city": "San Ġiljan",
+        "addr:country": "MT",
+        "addr:housenumber": "39",
+        "addr:street": "Triq Diodorus Siculus",
+        "mobile": "+356 7926 9307",
+        "name": "Chic Hair And Makeup",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/7188991289",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Christie's hair saloon",
+      "lat": 35.9131316,
+      "lon": 14.479361,
+      "address": {
+        "housenumber": "53",
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": "53"
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "addr:housenumber": "53",
+        "name": "Christie's hair saloon",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/7002861914",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "CL Salon",
+      "lat": 35.9477699,
+      "lon": 14.4061929,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "check_date": "2025-08-28",
+        "name": "CL Salon",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/1354128057",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Claire's Hair Salon",
+      "lat": 35.89831,
+      "lon": 14.474734,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "name": "Claire's Hair Salon",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/13207369100",
+      "type": "node",
+      "category": "beauty",
+      "name": "Claire's Inner Beauty",
+      "lat": 35.9097232,
+      "lon": 14.4275424,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "check_date": "2026-03-19",
+        "name": "Claire's Inner Beauty",
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/5255409489",
+      "type": "node",
+      "category": "beauty",
+      "name": "Claws and Curls",
+      "lat": 35.8526631,
+      "lon": 14.5086921,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "beauty": "nails",
+        "name": "Claws and Curls",
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/4289879597",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Club Cut by Mark Stafrace",
+      "lat": 35.8721688,
+      "lon": 14.5060912,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "name": "Club Cut by Mark Stafrace",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/13092787966",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Collis Williams",
+      "lat": 35.9006434,
+      "lon": 14.4909943,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "check_date": "2025-08-23",
+        "name": "Collis Williams",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/13029822463",
+      "type": "node",
+      "category": "beauty",
+      "name": "Contrasto lux",
+      "lat": 35.9068508,
+      "lon": 14.4925007,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": "+35 67 956 30 04",
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "name": "Contrasto lux",
+        "phone": "+35 67 956 30 04",
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/13193549384",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "D Hair Salon",
+      "lat": 35.8968863,
+      "lon": 14.461963,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "check_date": "2025-10-04",
+        "name": "D Hair Salon",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/13207454211",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "D Hair Salon",
+      "lat": 35.8965187,
+      "lon": 14.467034,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "check_date": "2025-10-10",
+        "name": "D Hair Salon",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/8211225896",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Damasc Barber Shop",
+      "lat": 35.8959937,
+      "lon": 14.4646133,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "check_date": "2025-08-28",
+        "female": "yes",
+        "name": "Damasc Barber Shop",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/13103546397",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Dean Gera",
+      "lat": 35.8945492,
+      "lon": 14.4812396,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "check_date": "2025-08-28",
+        "name": "Dean Gera",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/13174899453",
+      "type": "node",
+      "category": "beauty",
+      "name": "Deborah Mifsud",
+      "lat": 35.899471,
+      "lon": 14.45644,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "beauty": "nails",
+        "check_date": "2025-09-24",
+        "name": "Deborah Mifsud",
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/12453623807",
+      "type": "node",
+      "category": "beauty",
+      "name": "Dee Spas",
+      "lat": 35.9020719,
+      "lon": 14.4803256,
+      "address": {
+        "housenumber": null,
+        "street": "Triq Roberto Ranieri Costaguti",
+        "city": "L-Imsida",
+        "postcode": "MSD 2070",
+        "country": "MT",
+        "full": "Triq Roberto Ranieri Costaguti, MSD 2070, L-Imsida, MT"
+      },
+      "phone": null,
+      "website": null,
+      "email": "deebeauty@deespas.com",
+      "openingHours": "Mo-Fr 09:30-18:00; Sa 09:30-16:00; Su off",
+      "tags": {
+        "addr:city": "L-Imsida",
+        "addr:country": "MT",
+        "addr:housename": "Campus Hub Block B",
+        "addr:postcode": "MSD 2070",
+        "addr:street": "Triq Roberto Ranieri Costaguti",
+        "beauty": "nails",
+        "check_date": "2026-03-26",
+        "email": "deebeauty@deespas.com",
+        "level": "1",
+        "mobile": "+356 7713 6739",
+        "name": "Dee Spas",
+        "opening_hours": "Mo-Fr 09:30-18:00; Sa 09:30-16:00; Su off",
+        "shop": "beauty",
+        "source": "https://campushubmalta.com/deespa/"
+      }
+    },
+    {
+      "osmId": "node/7253124796",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Designer's Cut",
+      "lat": 35.9556818,
+      "lon": 14.3665959,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": "+35621525194",
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "check_date:opening_hours": "2022-12-22",
+        "name": "Designer's Cut",
+        "opening_hours:signed": "no",
+        "phone": "+35621525194",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/13086290090",
+      "type": "node",
+      "category": "beauty",
+      "name": "Diderma Skin Beauty Clinic",
+      "lat": 35.9486663,
+      "lon": 14.4003192,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "beauty": "nails",
+        "check_date": "2025-08-21",
+        "name": "Diderma Skin Beauty Clinic",
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/13234019879",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Divinus",
+      "lat": 35.9479793,
+      "lon": 14.3974407,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "check_date": "2025-10-15",
+        "name": "Divinus",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/9347984717",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Douglas Hair Stylist",
+      "lat": 35.9001714,
+      "lon": 14.491915,
+      "address": {
+        "housenumber": "108",
+        "street": "Triq Testaferrata",
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": "108 Triq Testaferrata"
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "addr:housenumber": "108",
+        "addr:street": "Triq Testaferrata",
+        "name": "Douglas Hair Stylist",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/13092787961",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Douglas Hair Stylists",
+      "lat": 35.9009767,
+      "lon": 14.4926741,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "check_date": "2025-08-23",
+        "name": "Douglas Hair Stylists",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/13086290083",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Dragon Mo",
+      "lat": 35.9476995,
+      "lon": 14.4054795,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "check_date": "2025-08-21",
+        "hairdresser": "barber",
+        "name": "Dragon Mo",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/4230856589",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Dreads Hairdressing",
+      "lat": 35.8676292,
+      "lon": 14.5068208,
+      "address": {
+        "housenumber": "1",
+        "street": "Triq Imbroll",
+        "city": null,
+        "postcode": "PLA1373",
+        "country": null,
+        "full": "1 Triq Imbroll, PLA1373"
+      },
+      "phone": "+35621802461",
+      "website": null,
+      "email": "domdreads@gmail.com",
+      "openingHours": "Tu-Sa 09:00-18:00",
+      "tags": {
+        "addr:housenumber": "1",
+        "addr:postcode": "PLA1373",
+        "addr:street": "Triq Imbroll",
+        "contact:facebook": "https://www.facebook.com/Dreadshairdressing/",
+        "email": "domdreads@gmail.com",
+        "internet_access": "wlan",
+        "name": "Dreads Hairdressing",
+        "opening_hours": "Tu-Sa 09:00-18:00",
+        "phone": "+35621802461",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/12369459545",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "DSalon",
+      "lat": 35.9202711,
+      "lon": 14.477884,
+      "address": {
+        "housenumber": null,
+        "street": "Triq il-Qantar",
+        "city": "Is-Swieqi",
+        "postcode": null,
+        "country": null,
+        "full": "Triq il-Qantar, Is-Swieqi"
+      },
+      "phone": "+356 2137 1245",
+      "website": null,
+      "email": "dsalonmalta@gmail.com",
+      "openingHours": null,
+      "tags": {
+        "addr:city": "Is-Swieqi",
+        "addr:street": "Triq il-Qantar",
+        "email": "dsalonmalta@gmail.com",
+        "name": "DSalon",
+        "phone": "+356 2137 1245",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/11579194731",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Eastern Barber",
+      "lat": 35.9067583,
+      "lon": 14.4950944,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": "Mo-Sa 09:00-22:00;Su 12:00-20:00",
+      "tags": {
+        "hairdresser": "barber",
+        "name": "Eastern Barber",
+        "opening_hours": "Mo-Sa 09:00-22:00;Su 12:00-20:00",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/11332575776",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Ella",
+      "lat": 35.9485858,
+      "lon": 14.4107017,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "female": "yes",
+        "male": "yes",
+        "name": "Ella",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/13009351095",
+      "type": "node",
+      "category": "beauty",
+      "name": "Enya",
+      "lat": 35.9038412,
+      "lon": 14.4904878,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "name": "Enya",
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/13230625804",
+      "type": "node",
+      "category": "beauty",
+      "name": "Eyecon",
+      "lat": 35.9573529,
+      "lon": 14.3571754,
+      "address": {
+        "housenumber": "85",
+        "street": "Triq in-Ninfa Calypso",
+        "city": "Il-Mellieħa",
+        "postcode": "MLH 1914",
+        "country": null,
+        "full": "85 Triq in-Ninfa Calypso, MLH 1914, Il-Mellieħa"
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "addr:city": "Il-Mellieħa",
+        "addr:housenumber": "85",
+        "addr:postcode": "MLH 1914",
+        "addr:street": "Triq in-Ninfa Calypso",
+        "name": "Eyecon",
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/12347748874",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Fade O'Clock",
+      "lat": 35.9178998,
+      "lon": 14.492505,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "male": "yes",
+        "name": "Fade O'Clock",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/13092787939",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Feelwell Barber Shop",
+      "lat": 35.9034378,
+      "lon": 14.494976,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "check_date": "2025-08-23",
+        "hairdresser": "barber",
+        "name": "Feelwell Barber Shop",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/11578519108",
+      "type": "node",
+      "category": "beauty",
+      "name": "Fifi's",
+      "lat": 35.9083322,
+      "lon": 14.5013156,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "name": "Fifi's",
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/11578511509",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "French Barber",
+      "lat": 35.9086409,
+      "lon": 14.5023536,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "hairdresser": "barber",
+        "male": "only",
+        "name": "French Barber",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/7193701194",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Fridges Barber Shop",
+      "lat": 35.9109813,
+      "lon": 14.4846856,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "name": "Fridges Barber Shop",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/4289877292",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Gaetano Salon",
+      "lat": 35.8719708,
+      "lon": 14.5082582,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "name": "Gaetano Salon",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/6087610879",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Gentleman's Barbershop",
+      "lat": 35.9047287,
+      "lon": 14.4921226,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": "Tas-Sliema",
+        "postcode": null,
+        "country": "MT",
+        "full": "Tas-Sliema, MT"
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "addr:city": "Tas-Sliema",
+        "addr:country": "MT",
+        "description": "Men's barbershop",
+        "name": "Gentleman's Barbershop",
+        "payment:cash": "yes",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/7038512583",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Gents of Town",
+      "lat": 35.9090767,
+      "lon": 14.4254837,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "check_date": "2026-03-19",
+        "name": "Gents of Town",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/6016402085",
+      "type": "node",
+      "category": "beauty",
+      "name": "Glamour Hair and Nails",
+      "lat": 35.905079,
+      "lon": 14.4233819,
+      "address": {
+        "housenumber": null,
+        "street": "Triq San Silvestru",
+        "city": "Il-Mosta",
+        "postcode": null,
+        "country": null,
+        "full": "Triq San Silvestru, Il-Mosta"
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "addr:city": "Il-Mosta",
+        "addr:street": "Triq San Silvestru",
+        "check_date": "2026-03-19",
+        "mobile": "+356 9999 2163",
+        "name": "Glamour Hair and Nails",
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/7880588572",
+      "type": "node",
+      "category": "beauty",
+      "name": "GOLD by Denise Brydon",
+      "lat": 35.8936125,
+      "lon": 14.4309384,
+      "address": {
+        "housenumber": "152",
+        "street": "Triq il-Pitkali",
+        "city": "Ħ'Attard",
+        "postcode": null,
+        "country": "MT",
+        "full": "152 Triq il-Pitkali, Ħ'Attard, MT"
+      },
+      "phone": "+356 2097 9557",
+      "website": null,
+      "email": "goldbydenise@gmail.com",
+      "openingHours": null,
+      "tags": {
+        "addr:city": "Ħ'Attard",
+        "addr:country": "MT",
+        "addr:housenumber": "152",
+        "addr:street": "Triq il-Pitkali",
+        "beauty": "nails",
+        "contact:facebook": "https://www.facebook.com/Goldbydenisebrydon",
+        "email": "goldbydenise@gmail.com",
+        "name": "GOLD by Denise Brydon",
+        "phone": "+356 2097 9557",
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/13806120211",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Golden Barber VIP",
+      "lat": 35.8989244,
+      "lon": 14.4912364,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "hairdresser": "barber",
+        "name": "Golden Barber VIP",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/12695850770",
+      "type": "node",
+      "category": "beauty",
+      "name": "Grand Masters Health & Beauty Clinic",
+      "lat": 35.881716,
+      "lon": 14.5185956,
+      "address": {
+        "housenumber": "24",
+        "street": "Bieb Bormla",
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": "24 Bieb Bormla"
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": "Tu-Sa 09:00-19:00",
+      "tags": {
+        "addr:housenumber": "24",
+        "addr:street": "Bieb Bormla",
+        "mobile": "+356 9959 5906",
+        "name": "Grand Masters Health & Beauty Clinic",
+        "opening_hours": "Tu-Sa 09:00-19:00",
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/9195909669",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Hair",
+      "lat": 35.8833026,
+      "lon": 14.3996894,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "check_date": "2026-03-19",
+        "name": "Hair",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/13795033561",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Hair & Beauty",
+      "lat": 35.8991787,
+      "lon": 14.49322,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "female:signed": "no",
+        "male:signed": "no",
+        "name": "Hair & Beauty",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/3966905143",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Hair & Co. Studios",
+      "lat": 36.0437671,
+      "lon": 14.2467382,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "name": "Hair & Co. Studios",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/12477790976",
+      "type": "node",
+      "category": "beauty",
+      "name": "HAIR + Beauty Shop by Silvan",
+      "lat": 36.0443758,
+      "lon": 14.2406573,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "name": "HAIR + Beauty Shop by Silvan",
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/11581977818",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Hair Beyond",
+      "lat": 35.9005387,
+      "lon": 14.5155852,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "check_date": "2025-07-30",
+        "name": "Hair Beyond",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/6372871350",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Hair by Yogi",
+      "lat": 35.9101199,
+      "lon": 14.4973577,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": "https://www.yogibarbermalta.com/",
+      "email": null,
+      "openingHours": "Mo 16:00-19:30; Tu-Sa 10:00-19:30",
+      "tags": {
+        "mobile": "+356 9958 3569",
+        "name": "Hair by Yogi",
+        "opening_hours": "Mo 16:00-19:30; Tu-Sa 10:00-19:30",
+        "shop": "hairdresser",
+        "website": "https://www.yogibarbermalta.com/"
+      }
+    },
+    {
+      "osmId": "node/13045302475",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Hair by Zhivka",
+      "lat": 35.9560405,
+      "lon": 14.363736,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "check_date": "2025-08-03",
+        "name": "Hair by Zhivka",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/11586884127",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Hair Extensions and Beauty",
+      "lat": 35.8971058,
+      "lon": 14.4927572,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "check_date": "2025-08-28",
+        "name": "Hair Extensions and Beauty",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/7002751354",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Hair Flair",
+      "lat": 35.954029,
+      "lon": 14.4200053,
+      "address": {
+        "housenumber": null,
+        "street": "Triq il-Maskli",
+        "city": "San Pawl il-Baħar",
+        "postcode": null,
+        "country": null,
+        "full": "Triq il-Maskli, San Pawl il-Baħar"
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "addr:city": "San Pawl il-Baħar",
+        "addr:street": "Triq il-Maskli",
+        "name": "Hair Flair",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/357926091",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Hair Heaven",
+      "lat": 35.8734656,
+      "lon": 14.5212846,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "name": "Hair Heaven",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/6953934105",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Hair Lodge",
+      "lat": 35.9462445,
+      "lon": 14.4112068,
+      "address": {
+        "housenumber": "20",
+        "street": "Triq iċ-Ċagħaq",
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": "20 Triq iċ-Ċagħaq"
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "addr:housenumber": "20",
+        "addr:street": "Triq iċ-Ċagħaq",
+        "name": "Hair Lodge",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/6333615530",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Hair O'hair",
+      "lat": 35.8788322,
+      "lon": 14.3985747,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "name": "Hair O'hair",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/2798848342",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Hair Salon",
+      "lat": 35.9005939,
+      "lon": 14.4519157,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": "Ħal Balzan",
+        "postcode": null,
+        "country": "MT",
+        "full": "Ħal Balzan, MT"
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "addr:city": "Ħal Balzan",
+        "addr:country": "MT",
+        "name": "Hair Salon",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/5243882606",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "HairDesign by Yvette",
+      "lat": 35.8935939,
+      "lon": 14.4885105,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "name": "HairDesign by Yvette",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/3415667876",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Hairways",
+      "lat": 35.8976147,
+      "lon": 14.4635151,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "name": "Hairways",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/1438452719",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Halo",
+      "lat": 35.828752,
+      "lon": 14.5285931,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "name": "Halo",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/12988056388",
+      "type": "node",
+      "category": "beauty",
+      "name": "Halo Malta",
+      "lat": 35.9112253,
+      "lon": 14.5040678,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": "10:00-18:00; We,Su off",
+      "tags": {
+        "beauty": "nails",
+        "mobile": "+35 67 71 062 91",
+        "name": "Halo Malta",
+        "opening_hours": "10:00-18:00; We,Su off",
+        "payment:coins": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:notes": "yes",
+        "payment:visa": "yes",
+        "shop": "beauty",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "osmId": "node/6087588494",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "He & She",
+      "lat": 35.9042421,
+      "lon": 14.4937026,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": "Tu-Sa 09:00-18:00",
+      "tags": {
+        "check_date": "2025-09-27",
+        "female": "yes",
+        "male": "yes",
+        "name": "He & She",
+        "opening_hours": "Tu-Sa 09:00-18:00",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/10995668004",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Head Rush",
+      "lat": 35.9093883,
+      "lon": 14.5091224,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "check_date": "2023-06-23",
+        "level": "0",
+        "name": "Head Rush",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/5057351036",
+      "type": "node",
+      "category": "beauty",
+      "name": "Heavenly Beauty",
+      "lat": 36.0293646,
+      "lon": 14.2897018,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "contact:facebook": "https://www.facebook.com/heavenlybeautysalon12/",
+        "name": "Heavenly Beauty",
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/13045302473",
+      "type": "node",
+      "category": "beauty",
+      "name": "Hey Beauty",
+      "lat": 35.9558255,
+      "lon": 14.3622337,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "check_date": "2025-08-03",
+        "name": "Hey Beauty",
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/12925294275",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Hola Hair",
+      "lat": 35.8918464,
+      "lon": 14.5059368,
+      "address": {
+        "housenumber": null,
+        "street": "Triq Sant' Anna",
+        "city": "Il-Furjana",
+        "postcode": null,
+        "country": null,
+        "full": "Triq Sant' Anna, Il-Furjana"
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "addr:city": "Il-Furjana",
+        "addr:street": "Triq Sant' Anna",
+        "check_date": "2025-08-28",
+        "entrance": "yes",
+        "level": "0",
+        "name": "Hola Hair",
+        "shop": "hairdresser",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "osmId": "node/9198329770",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Hollywood Cuts",
+      "lat": 35.9182916,
+      "lon": 14.4905368,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": "https://www.facebook.com/hollywoodcutsmalta/",
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "name": "Hollywood Cuts",
+        "shop": "hairdresser",
+        "website": "https://www.facebook.com/hollywoodcutsmalta/"
+      }
+    },
+    {
+      "osmId": "node/11579028168",
+      "type": "node",
+      "category": "beauty",
+      "name": "House of Beauty",
+      "lat": 35.9046716,
+      "lon": 14.4958196,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "check_date": "2025-08-23",
+        "name": "House of Beauty",
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/7253124803",
+      "type": "node",
+      "category": "beauty",
+      "name": "Hush Hair and Beauty Salon",
+      "lat": 35.9550675,
+      "lon": 14.363474,
+      "address": {
+        "housenumber": null,
+        "street": "Triq it-Tgħam",
+        "city": "Il-Mellieħa",
+        "postcode": null,
+        "country": null,
+        "full": "Triq it-Tgħam, Il-Mellieħa"
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "addr:city": "Il-Mellieħa",
+        "addr:street": "Triq it-Tgħam",
+        "beauty": "nails",
+        "name": "Hush Hair and Beauty Salon",
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/12988056383",
+      "type": "node",
+      "category": "beauty",
+      "name": "Iconic beauty",
+      "lat": 35.9139873,
+      "lon": 14.5043316,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": "Mo-Sa 09:30-19:00",
+      "tags": {
+        "mobile": "+35 69 967 00 23",
+        "name": "Iconic beauty",
+        "opening_hours": "Mo-Sa 09:30-19:00",
+        "shop": "beauty",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "osmId": "node/13092787906",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Imperium Design",
+      "lat": 35.9010087,
+      "lon": 14.4928928,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "check_date": "2025-08-23",
+        "name": "Imperium Design",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/2869975691",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Ingrid Hair Studio",
+      "lat": 35.9070777,
+      "lon": 14.4309023,
+      "address": {
+        "housenumber": null,
+        "street": "Triq Anġlu Gatt",
+        "city": "Il-Mosta",
+        "postcode": null,
+        "country": null,
+        "full": "Triq Anġlu Gatt, Il-Mosta"
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "addr:city": "Il-Mosta",
+        "addr:street": "Triq Anġlu Gatt",
+        "check_date": "2026-03-19",
+        "name": "Ingrid Hair Studio",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/2480487045",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Jasmine",
+      "lat": 35.9222975,
+      "lon": 14.4910582,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "name": "Jasmine",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/7142183186",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "JeVa Hair & Beauty",
+      "lat": 35.8874349,
+      "lon": 14.5171549,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "name": "JeVa Hair & Beauty",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/13232703509",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Joe's Barber Shop",
+      "lat": 35.9564796,
+      "lon": 14.3581127,
+      "address": {
+        "housenumber": "6",
+        "street": "Triq in-Ninfa Calypso",
+        "city": "Il-Mellieħa",
+        "postcode": "MLH 1911",
+        "country": null,
+        "full": "6 Triq in-Ninfa Calypso, MLH 1911, Il-Mellieħa"
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": "Mo,We,Fr 16:30-19:00; Sa 09:00-12:30; Tu,Th,Su,PH OFF",
+      "tags": {
+        "addr:city": "Il-Mellieħa",
+        "addr:housenumber": "6",
+        "addr:postcode": "MLH 1911",
+        "addr:street": "Triq in-Ninfa Calypso",
+        "hairdresser": "barber",
+        "mobile": "+356 7970 1593",
+        "name": "Joe's Barber Shop",
+        "opening_hours": "Mo,We,Fr 16:30-19:00; Sa 09:00-12:30; Tu,Th,Su,PH OFF",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/5243833958",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "John's Hair Salon",
+      "lat": 35.8941658,
+      "lon": 14.4874931,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "name": "John's Hair Salon",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/12343793284",
+      "type": "node",
+      "category": "beauty",
+      "name": "Kallidora",
+      "lat": 35.8835622,
+      "lon": 14.4007346,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "name": "Kallidora",
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/7968704329",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Karl Brincau Hair Salon",
+      "lat": 35.9002291,
+      "lon": 14.4537749,
+      "address": {
+        "housenumber": null,
+        "street": "Triq il-Wied Ħal Balzan",
+        "city": "Ħal Balzan",
+        "postcode": null,
+        "country": "MT",
+        "full": "Triq il-Wied Ħal Balzan, Ħal Balzan, MT"
+      },
+      "phone": "+356 2099 7203",
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "addr:city": "Ħal Balzan",
+        "addr:country": "MT",
+        "addr:street": "Triq il-Wied Ħal Balzan",
+        "contact:facebook": "https://www.facebook.com/Karl-Brincau-hair-salon-548296705504350/",
+        "name": "Karl Brincau Hair Salon",
+        "operator": "Karl Brincau",
+        "phone": "+356 2099 7203",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/13167075970",
+      "type": "node",
+      "category": "beauty",
+      "name": "Karnik Beauty Salon",
+      "lat": 35.8930146,
+      "lon": 14.504045,
+      "address": {
+        "housenumber": "19",
+        "street": "Il-Mall",
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": "19 Il-Mall"
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "addr:housenumber": "19",
+        "addr:street": "Il-Mall",
+        "check_date": "2025-09-24",
+        "name": "Karnik Beauty Salon",
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/2798848343",
+      "type": "node",
+      "category": "beauty",
+      "name": "Kate's Wellness",
+      "lat": 35.9004234,
+      "lon": 14.4519667,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": "Ħal Balzan",
+        "postcode": null,
+        "country": "MT",
+        "full": "Ħal Balzan, MT"
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "addr:city": "Ħal Balzan",
+        "addr:country": "MT",
+        "name": "Kate's Wellness",
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/4245083172",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Kennedy",
+      "lat": 35.9094236,
+      "lon": 14.5022083,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "name": "Kennedy",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/319968551",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Kenneth Hair Salon",
+      "lat": 35.8744509,
+      "lon": 14.5217834,
+      "address": {
+        "housenumber": null,
+        "street": "Triq is-Sur",
+        "city": "Il-Fgura",
+        "postcode": null,
+        "country": null,
+        "full": "Triq is-Sur, Il-Fgura"
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": "Tu-Fr 08:00-12:00,14:30-19:00; Sa 08:00-15:00; Su,Mo off; PH off",
+      "tags": {
+        "addr:city": "Il-Fgura",
+        "addr:street": "Triq is-Sur",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/p/Kenneth-hair-salon-100039203539704/",
+        "male": "yes",
+        "mobile": "+356 7901 1088",
+        "name": "Kenneth Hair Salon",
+        "opening_hours": "Tu-Fr 08:00-12:00,14:30-19:00; Sa 08:00-15:00; Su,Mo off; PH off",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/13235996465",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Kingsman",
+      "lat": 35.9115991,
+      "lon": 14.442823,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "check_date": "2026-03-19",
+        "hairdresser": "barber",
+        "name": "Kingsman",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/13092787970",
+      "type": "node",
+      "category": "beauty",
+      "name": "Le Mart",
+      "lat": 35.899211,
+      "lon": 14.490374,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "check_date": "2025-08-23",
+        "name": "Le Mart",
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/4506115292",
+      "type": "node",
+      "category": "beauty",
+      "name": "Lilac",
+      "lat": 35.8733322,
+      "lon": 14.5216583,
+      "address": {
+        "housenumber": null,
+        "street": "Triq is-Sur",
+        "city": "Il-Fgura",
+        "postcode": null,
+        "country": "MT",
+        "full": "Triq is-Sur, Il-Fgura, MT"
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "addr:city": "Il-Fgura",
+        "addr:country": "MT",
+        "addr:street": "Triq is-Sur",
+        "name": "Lilac",
+        "name:en": "Lilac",
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/13827352001",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Lo Stilista",
+      "lat": 35.8967478,
+      "lon": 14.512911,
+      "address": {
+        "housenumber": "117",
+        "street": "Triq San Ġwann",
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": "117 Triq San Ġwann"
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "addr:housenumber": "117",
+        "addr:street": "Triq San Ġwann",
+        "check_date": "2026-05-14",
+        "name": "Lo Stilista",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/1972678875",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Look New by Steph",
+      "lat": 35.8838818,
+      "lon": 14.5415687,
+      "address": {
+        "housenumber": null,
+        "street": "Triq L-Ghakrux",
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": "Triq L-Ghakrux"
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "addr:street": "Triq L-Ghakrux",
+        "name": "Look New by Steph",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/3505751949",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Looking Good",
+      "lat": 35.9245769,
+      "lon": 14.4873186,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": "http://www.lookinggoodmalta.com/",
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "name": "Looking Good",
+        "shop": "hairdresser",
+        "website": "http://www.lookinggoodmalta.com/"
+      }
+    },
+    {
+      "osmId": "node/11579194733",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Lorella's Salon",
+      "lat": 35.9076633,
+      "lon": 14.4963289,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "name": "Lorella's Salon",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/7002894502",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Lucias",
+      "lat": 35.9513676,
+      "lon": 14.4089562,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "name": "Lucias",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/5160292905",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Mane's",
+      "lat": 35.9009323,
+      "lon": 14.4573114,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "name": "Mane's",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/7038517651",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Manuel's Hair Salon",
+      "lat": 35.9090079,
+      "lon": 14.4251205,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": "Mo-Tu,Th-Fr 07:00-12:00,14:00-19:00; We 07:00-12:00; Sa 06:30-12:30,13:30-17:00",
+      "tags": {
+        "check_date": "2026-03-19",
+        "male": "yes",
+        "mobile": "+356 9926 7160",
+        "name": "Manuel's Hair Salon",
+        "opening_hours": "Mo-Tu,Th-Fr 07:00-12:00,14:00-19:00; We 07:00-12:00; Sa 06:30-12:30,13:30-17:00",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/13009351605",
+      "type": "node",
+      "category": "beauty",
+      "name": "Mariana's beauty studio",
+      "lat": 35.9050213,
+      "lon": 14.4950481,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "check_date": "2025-08-23",
+        "name": "Mariana's beauty studio",
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/13143324219",
+      "type": "node",
+      "category": "beauty",
+      "name": "Marion Mizzi Wellbeing",
+      "lat": 35.9586404,
+      "lon": 14.3620328,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "check_date": "2025-09-14",
+        "name": "Marion Mizzi Wellbeing",
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/7193701204",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Mauro Kitcher",
+      "lat": 35.9092655,
+      "lon": 14.4802445,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "name": "Mauro Kitcher",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/5057579361",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Memoire",
+      "lat": 35.8500065,
+      "lon": 14.5296082,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "name": "Memoire",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/12644107477",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "MG Barber",
+      "lat": 35.8794546,
+      "lon": 14.5203845,
+      "address": {
+        "housenumber": "19",
+        "street": "Triq Wiġi Rosato",
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": "19 Triq Wiġi Rosato"
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": "Mo-Su 10:00-20:00",
+      "tags": {
+        "addr:housenumber": "19",
+        "addr:street": "Triq Wiġi Rosato",
+        "hairdresser": "barber",
+        "mobile": "+356 7798 0633",
+        "name": "MG Barber",
+        "opening_hours": "Mo-Su 10:00-20:00",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/12732568837",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "MK Barber Shop",
+      "lat": 35.8865171,
+      "lon": 14.5176964,
+      "address": {
+        "housenumber": "29",
+        "street": "Triq il-Vitorja",
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": "29 Triq il-Vitorja"
+      },
+      "phone": null,
+      "website": "https://www.facebook.com/MKBarber23",
+      "email": null,
+      "openingHours": "Mo-Su 09:00-19:00",
+      "tags": {
+        "addr:housenumber": "29",
+        "addr:street": "Triq il-Vitorja",
+        "hairdresser": "barber",
+        "mobile": "+356 9931 7836",
+        "name": "MK Barber Shop",
+        "opening_hours": "Mo-Su 09:00-19:00",
+        "shop": "hairdresser",
+        "website": "https://www.facebook.com/MKBarber23"
+      }
+    },
+    {
+      "osmId": "node/13234062343",
+      "type": "node",
+      "category": "beauty",
+      "name": "Mona's Nail and Beauty Salon",
+      "lat": 35.8967128,
+      "lon": 14.4682557,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "beauty": "nails",
+        "check_date": "2025-10-15",
+        "name": "Mona's Nail and Beauty Salon",
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/13248057078",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Mustache Barber Shop",
+      "lat": 35.8915571,
+      "lon": 14.4590891,
+      "address": {
+        "housenumber": null,
+        "street": "Triq l-Intornjatur",
+        "city": "Birkirkara",
+        "postcode": "CBD 1040",
+        "country": null,
+        "full": "Triq l-Intornjatur, CBD 1040, Birkirkara"
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "addr:city": "Birkirkara",
+        "addr:postcode": "CBD 1040",
+        "addr:street": "Triq l-Intornjatur",
+        "hairdresser": "barber",
+        "level": "1",
+        "name": "Mustache Barber Shop",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/13078253894",
+      "type": "node",
+      "category": "beauty",
+      "name": "Nails by Martina",
+      "lat": 35.9065453,
+      "lon": 14.4191566,
+      "address": {
+        "housenumber": null,
+        "street": "Triq San Pawl tal-Qliegħa",
+        "city": "Il-Mosta",
+        "postcode": "MST 9098",
+        "country": null,
+        "full": "Triq San Pawl tal-Qliegħa, MST 9098, Il-Mosta"
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "addr:city": "Il-Mosta",
+        "addr:postcode": "MST 9098",
+        "addr:street": "Triq San Pawl tal-Qliegħa",
+        "beauty": "nails",
+        "check_date": "2026-03-19",
+        "name": "Nails by Martina",
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/13056151693",
+      "type": "node",
+      "category": "beauty",
+      "name": "Naturannis",
+      "lat": 35.9068898,
+      "lon": 14.43072,
+      "address": {
+        "housenumber": null,
+        "street": "Triq Anġlu Gatt",
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": "Triq Anġlu Gatt"
+      },
+      "phone": null,
+      "website": "https://www.naturannis.com/",
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "addr:street": "Triq Anġlu Gatt",
+        "beauty": "nails;waxing;massage;skin_care",
+        "check_date": "2026-03-19",
+        "name": "Naturannis",
+        "shop": "beauty",
+        "website": "https://www.naturannis.com/"
+      }
+    },
+    {
+      "osmId": "node/12817517098",
+      "type": "node",
+      "category": "beauty",
+      "name": "Naya",
+      "lat": 35.9099597,
+      "lon": 14.4981205,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "beauty": "nails",
+        "check_date": "2025-05-07",
+        "name": "Naya",
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/7142183188",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Needs",
+      "lat": 35.8873319,
+      "lon": 14.5170134,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "name": "Needs",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/8058392583",
+      "type": "node",
+      "category": "beauty",
+      "name": "Neroli",
+      "lat": 35.9197742,
+      "lon": 14.4782695,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "name": "Neroli",
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/11338683635",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "New Style",
+      "lat": 35.9485247,
+      "lon": 14.4107695,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "male": "yes",
+        "name": "New Style",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/13235996476",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "New Style",
+      "lat": 35.9150408,
+      "lon": 14.4445011,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "check_date": "2026-03-19",
+        "name": "New Style",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/13593334187",
+      "type": "node",
+      "category": "beauty",
+      "name": "Niumee",
+      "lat": 35.8878962,
+      "lon": 14.4700158,
+      "address": {
+        "housenumber": null,
+        "street": "Triq is-Salib tal-Imrieħel",
+        "city": "Birkirkara",
+        "postcode": null,
+        "country": null,
+        "full": "Triq is-Salib tal-Imrieħel, Birkirkara"
+      },
+      "phone": "+356 2032 0100",
+      "website": null,
+      "email": "info@niumee.com",
+      "openingHours": "Mo-Fr 08:00-20:00; Sa 08:00-16:00",
+      "tags": {
+        "addr:city": "Birkirkara",
+        "addr:street": "Triq is-Salib tal-Imrieħel",
+        "email": "info@niumee.com",
+        "name": "Niumee",
+        "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-16:00",
+        "phone": "+356 2032 0100",
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/13143324237",
+      "type": "node",
+      "category": "beauty",
+      "name": "Nura Café and Salon",
+      "lat": 35.9574484,
+      "lon": 14.3622456,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "beauty": "nails",
+        "check_date": "2025-09-14",
+        "name": "Nura Café and Salon",
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/11579195413",
+      "type": "node",
+      "category": "beauty",
+      "name": "Obsessed Beauty Club",
+      "lat": 35.907312,
+      "lon": 14.494591,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "name": "Obsessed Beauty Club",
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/13248057080",
+      "type": "node",
+      "category": "beauty",
+      "name": "Omorfia",
+      "lat": 35.8910456,
+      "lon": 14.459283,
+      "address": {
+        "housenumber": null,
+        "street": "Triq l-Intornjatur",
+        "city": "Birkirkara",
+        "postcode": "CBD 1040",
+        "country": null,
+        "full": "Triq l-Intornjatur, CBD 1040, Birkirkara"
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "addr:city": "Birkirkara",
+        "addr:postcode": "CBD 1040",
+        "addr:street": "Triq l-Intornjatur",
+        "level": "1",
+        "name": "Omorfia",
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/13009351603",
+      "type": "node",
+      "category": "beauty",
+      "name": "Panthea's hair salon",
+      "lat": 35.9039212,
+      "lon": 14.4951881,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": "+35 62 133 90 77",
+      "website": null,
+      "email": null,
+      "openingHours": "\"only after registration\"; PH off",
+      "tags": {
+        "check_date": "2025-08-23",
+        "mobile": "+35 67 79 462 47",
+        "name": "Panthea's hair salon",
+        "opening_hours": "\"only after registration\"; PH off",
+        "phone": "+35 62 133 90 77",
+        "shop": "beauty",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "osmId": "node/7027328557",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Papillon Unisex Hair Salon",
+      "lat": 36.0427824,
+      "lon": 14.2437845,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "name": "Papillon Unisex Hair Salon",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/7923899315",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Phoenix Salon - Hair & Nails",
+      "lat": 35.9084015,
+      "lon": 14.5082049,
+      "address": {
+        "housenumber": "47",
+        "street": "Triq Pace",
+        "city": "Tas-Sliema",
+        "postcode": null,
+        "country": "MT",
+        "full": "47 Triq Pace, Tas-Sliema, MT"
+      },
+      "phone": "+356 2133 7830",
+      "website": "https://phoenixsalon.eu/",
+      "email": null,
+      "openingHours": "Mo-Tu 09:00-17:00; We-Fr 09:00-20:00; Sa 09:00-18:00",
+      "tags": {
+        "addr:city": "Tas-Sliema",
+        "addr:country": "MT",
+        "addr:housenumber": "47",
+        "addr:street": "Triq Pace",
+        "air_conditioning": "yes",
+        "brand": "Goldwell;Kerasilk",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "mobile": "+356 9957 8917",
+        "name": "Phoenix Salon - Hair & Nails",
+        "opening_hours": "Mo-Tu 09:00-17:00; We-Fr 09:00-20:00; Sa 09:00-18:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+356 2133 7830",
+        "shop": "hairdresser",
+        "start_date": "2019-06-01",
+        "website": "https://phoenixsalon.eu/"
+      }
+    },
+    {
+      "osmId": "node/13092787909",
+      "type": "node",
+      "category": "beauty",
+      "name": "Pisces",
+      "lat": 35.902781,
+      "lon": 14.4945938,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "beauty": "nails",
+        "check_date": "2025-08-23",
+        "name": "Pisces",
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/10926232059",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Plan B Balluta Bay",
+      "lat": 35.9146866,
+      "lon": 14.4961673,
+      "address": {
+        "housenumber": "272",
+        "street": "Tower Road",
+        "city": "Tas-Sliema",
+        "postcode": "SLM 1600",
+        "country": null,
+        "full": "272 Tower Road, SLM 1600, Tas-Sliema"
+      },
+      "phone": null,
+      "website": "https://www.planbbarber.com/",
+      "email": "info@planbbarber.com",
+      "openingHours": null,
+      "tags": {
+        "addr:city": "Tas-Sliema",
+        "addr:housenumber": "272",
+        "addr:postcode": "SLM 1600",
+        "addr:street": "Tower Road",
+        "check_date:currency:XBT": "2025-07-15",
+        "contact:facebook": "https://www.facebook.com/profile.php?id=100090607183294",
+        "contact:instagram": "planb_barbershop",
+        "currency:XBT": "yes",
+        "email": "info@planbbarber.com",
+        "mobile": "+356 9931 9792",
+        "name": "Plan B Balluta Bay",
+        "payment:blink": "yes",
+        "payment:lightning": "yes",
+        "payment:lightning_contactless": "yes",
+        "payment:onchain": "yes",
+        "shop": "hairdresser",
+        "survey:date": "2025-03-08",
+        "website": "https://www.planbbarber.com/"
+      }
+    },
+    {
+      "osmId": "node/12646464761",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Plan B Mercury Tower",
+      "lat": 35.9232104,
+      "lon": 14.488888,
+      "address": {
+        "housenumber": null,
+        "street": "Triq Elija Zammit",
+        "city": "San Ġiljan",
+        "postcode": null,
+        "country": null,
+        "full": "Triq Elija Zammit, San Ġiljan"
+      },
+      "phone": null,
+      "website": "https://www.planbbarber.com/",
+      "email": "info@planbbarber.com",
+      "openingHours": null,
+      "tags": {
+        "addr:city": "San Ġiljan",
+        "addr:street": "Triq Elija Zammit",
+        "check_date": "2025-09-01",
+        "contact:facebook": "https://www.facebook.com/profile.php?id=100090607183294",
+        "contact:instagram": "planb_barbershop",
+        "currency:XBT": "yes",
+        "email": "info@planbbarber.com",
+        "mobile": "+356 9931 9792",
+        "name": "Plan B Mercury Tower",
+        "payment:lightning": "yes",
+        "payment:lightning_contactless": "no",
+        "payment:onchain": "yes",
+        "shop": "hairdresser",
+        "website": "https://www.planbbarber.com/"
+      }
+    },
+    {
+      "osmId": "node/11742868500",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Plan B The Strand",
+      "lat": 35.9079663,
+      "lon": 14.4997513,
+      "address": {
+        "housenumber": "110",
+        "street": "Triq Ix-Xatt",
+        "city": "Tas-Sliema",
+        "postcode": "SLM 1020",
+        "country": "MT",
+        "full": "110 Triq Ix-Xatt, SLM 1020, Tas-Sliema, MT"
+      },
+      "phone": null,
+      "website": "https://www.planbbarber.com/",
+      "email": "info@planbbarber.com",
+      "openingHours": null,
+      "tags": {
+        "addr:city": "Tas-Sliema",
+        "addr:country": "MT",
+        "addr:housenumber": "110",
+        "addr:postcode": "SLM 1020",
+        "addr:street": "Triq Ix-Xatt",
+        "check_date": "2025-08-23",
+        "check_date:currency:XBT": "2025-07-16",
+        "contact:facebook": "https://www.facebook.com/profile.php?id=100090607183294",
+        "contact:instagram": "planb_barbershop",
+        "currency:XBT": "yes",
+        "email": "info@planbbarber.com",
+        "male": "yes",
+        "mobile": "+356 9931 9792",
+        "name": "Plan B The Strand",
+        "payment:blink": "yes",
+        "payment:lightning": "yes",
+        "payment:lightning_contactless": "yes",
+        "payment:onchain": "yes",
+        "shop": "hairdresser",
+        "website": "https://www.planbbarber.com/"
+      }
+    },
+    {
+      "osmId": "node/13796631127",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Procut Barber",
+      "lat": 35.8937747,
+      "lon": 14.4605567,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": "9921 5460",
+      "website": "https://procutmt.setmore.com/",
+      "email": null,
+      "openingHours": "Mo-Fr 10:00-19:00; Sa 09:30-17:00; Su off",
+      "tags": {
+        "male": "yes",
+        "name": "Procut Barber",
+        "opening_hours": "Mo-Fr 10:00-19:00; Sa 09:30-17:00; Su off",
+        "phone": "9921 5460",
+        "shop": "hairdresser",
+        "website": "https://procutmt.setmore.com/"
+      }
+    },
+    {
+      "osmId": "node/12347875516",
+      "type": "node",
+      "category": "beauty",
+      "name": "pudra",
+      "lat": 35.9093748,
+      "lon": 14.5026969,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "name": "pudra",
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/11581988198",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Rita's Unisex Salon",
+      "lat": 35.9001716,
+      "lon": 14.515947,
+      "address": {
+        "housenumber": null,
+        "street": "Triq San Nikola",
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": "Triq San Nikola"
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "addr:street": "Triq San Nikola",
+        "female": "yes",
+        "male": "yes",
+        "name": "Rita's Unisex Salon",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/10039509445",
+      "type": "node",
+      "category": "beauty",
+      "name": "Ritianne's",
+      "lat": 35.8717763,
+      "lon": 14.5060303,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "name": "Ritianne's",
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/7039203763",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Rock Barber",
+      "lat": 35.9565721,
+      "lon": 14.3634652,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "check_date": "2025-09-14",
+        "name": "Rock Barber",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/12357692059",
+      "type": "node",
+      "category": "beauty",
+      "name": "Ruby's Nail Shop",
+      "lat": 35.8620258,
+      "lon": 14.4894316,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "name": "Ruby's Nail Shop",
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/13104556107",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Rusk",
+      "lat": 35.8992322,
+      "lon": 14.4550052,
+      "address": {
+        "housenumber": "48",
+        "street": "Triq il-Wied Ħal Balzan",
+        "city": "Ħal Balzan",
+        "postcode": null,
+        "country": null,
+        "full": "48 Triq il-Wied Ħal Balzan, Ħal Balzan"
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "addr:city": "Ħal Balzan",
+        "addr:housenumber": "48",
+        "addr:street": "Triq il-Wied Ħal Balzan",
+        "check_date": "2025-08-28",
+        "name": "Rusk",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/13658666101",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "S.GOVE HAIR Couture",
+      "lat": 35.9006337,
+      "lon": 14.4567716,
+      "address": {
+        "housenumber": "56",
+        "street": "Triq Ganu",
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": "56 Triq Ganu"
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "addr:housenumber": "56",
+        "addr:street": "Triq Ganu",
+        "check_date": "2026-03-19",
+        "contact:facebook": "share/17uVyxp48K",
+        "name": "S.GOVE HAIR Couture",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/3552227878",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "S&J Hair Studio",
+      "lat": 35.9108222,
+      "lon": 14.5062097,
+      "address": {
+        "housenumber": null,
+        "street": "Triq il-Kbira",
+        "city": "Tas-Sliema",
+        "postcode": null,
+        "country": "MT",
+        "full": "Triq il-Kbira, Tas-Sliema, MT"
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "addr:city": "Tas-Sliema",
+        "addr:country": "MT",
+        "addr:street": "Triq il-Kbira",
+        "check_date": "2023-06-23",
+        "name": "S&J Hair Studio",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/2946105049",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Schère Beauty Salon",
+      "lat": 35.9563063,
+      "lon": 14.3627799,
+      "address": {
+        "housenumber": null,
+        "street": "Triq Sant' Anna",
+        "city": "Il-Mellieħa",
+        "postcode": "MLH 1022",
+        "country": "MT",
+        "full": "Triq Sant' Anna, MLH 1022, Il-Mellieħa, MT"
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": "09:00-19:00",
+      "tags": {
+        "addr:city": "Il-Mellieħa",
+        "addr:country": "MT",
+        "addr:postcode": "MLH 1022",
+        "addr:street": "Triq Sant' Anna",
+        "check_date": "2025-08-11",
+        "name": "Schère Beauty Salon",
+        "opening_hours": "09:00-19:00",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/7047860613",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Scissor Hands",
+      "lat": 35.9104894,
+      "lon": 14.4941205,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "name": "Scissor Hands",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/1907160195",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Shermain's",
+      "lat": 36.0355281,
+      "lon": 14.3117191,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "name": "Shermain's",
+        "shop": "hairdresser",
+        "source": "survey"
+      }
+    },
+    {
+      "osmId": "node/3415672391",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Simon Salon",
+      "lat": 35.8996158,
+      "lon": 14.4648348,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": "Mo-Su 10:30-12:00,13:00-19:00",
+      "tags": {
+        "male": "yes",
+        "name": "Simon Salon",
+        "opening_hours": "Mo-Su 10:30-12:00,13:00-19:00",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/2803009511",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Simon's Unihair",
+      "lat": 35.9124758,
+      "lon": 14.4784808,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": "21373638",
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "name": "Simon's Unihair",
+        "phone": "21373638",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/12595078347",
+      "type": "node",
+      "category": "beauty",
+      "name": "Skincare Beauty Clinic",
+      "lat": 36.0400232,
+      "lon": 14.2285312,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "mobile": "+356 9985 3961",
+        "name": "Skincare Beauty Clinic",
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/4515162093",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Sleek",
+      "lat": 35.8737578,
+      "lon": 14.519484,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "name": "Sleek",
+        "name:en": "Sleek",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/13235996480",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "So Blonde Hair Boutique",
+      "lat": 35.9150208,
+      "lon": 14.4468349,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "check_date": "2025-10-16",
+        "name": "So Blonde Hair Boutique",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/6222717553",
+      "type": "node",
+      "category": "beauty",
+      "name": "Soap Café",
+      "lat": 35.9094724,
+      "lon": 14.5030494,
+      "address": {
+        "housenumber": "65",
+        "street": "Triq San Duminku",
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": "65 Triq San Duminku"
+      },
+      "phone": null,
+      "website": "https://soapcafemalta.com/",
+      "email": "info@soapcafemalta.com",
+      "openingHours": "Mo-Fr 10:00-14:00,16:00-18:00; Sa 10:00-14:00",
+      "tags": {
+        "addr:housenumber": "65",
+        "addr:street": "Triq San Duminku",
+        "contact:facebook": "soapcafemalta",
+        "email": "info@soapcafemalta.com",
+        "mobile": "+356 9988 3675",
+        "name": "Soap Café",
+        "opening_hours": "Mo-Fr 10:00-14:00,16:00-18:00; Sa 10:00-14:00",
+        "shop": "beauty",
+        "website": "https://soapcafemalta.com/"
+      }
+    },
+    {
+      "osmId": "node/13092787940",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Sophisticut",
+      "lat": 35.8990051,
+      "lon": 14.4866036,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "check_date": "2025-08-23",
+        "name": "Sophisticut",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/13092787929",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Southpaw Barber",
+      "lat": 35.9006804,
+      "lon": 14.4847049,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "check_date": "2025-08-23",
+        "hairdresser": "barber",
+        "name": "Southpaw Barber",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/1830633726",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Spikes Hair Studio",
+      "lat": 35.8966966,
+      "lon": 14.4682968,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "check_date": "2025-10-15",
+        "name": "Spikes Hair Studio",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/8379603356",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Stepahead Hair Studio",
+      "lat": 35.9122489,
+      "lon": 14.5029328,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": "+356 21324244",
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "contact:phone": "+356 21324244",
+        "name": "Stepahead Hair Studio",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/4506043490",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Steve's",
+      "lat": 35.8724072,
+      "lon": 14.520044,
+      "address": {
+        "housenumber": null,
+        "street": "Triq Ħaż-Żabbar",
+        "city": "Il-Fgura",
+        "postcode": null,
+        "country": "MT",
+        "full": "Triq Ħaż-Żabbar, Il-Fgura, MT"
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "addr:city": "Il-Fgura",
+        "addr:country": "MT",
+        "addr:street": "Triq Ħaż-Żabbar",
+        "name": "Steve's",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/6434144786",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Studio 79",
+      "lat": 36.0529446,
+      "lon": 14.2693319,
+      "address": {
+        "housenumber": null,
+        "street": "Triq it-Tiġrija",
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": "Triq it-Tiġrija"
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "addr:street": "Triq it-Tiġrija",
+        "name": "Studio 79",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/1438452724",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Styling Station",
+      "lat": 35.8287699,
+      "lon": 14.5287591,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "name": "Styling Station",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/7037905895",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Stylish Barber Shop",
+      "lat": 35.952006,
+      "lon": 14.409182,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": "Tu-Su 09:00-20:00",
+      "tags": {
+        "check_date": "2025-08-26",
+        "male": "yes",
+        "name": "Stylish Barber Shop",
+        "opening_hours": "Tu-Su 09:00-20:00",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/10039493310",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Ta' Gilard",
+      "lat": 35.8718745,
+      "lon": 14.5060265,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "name": "Ta' Gilard",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/13235996434",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Ta' Spiru Barber Shop",
+      "lat": 35.9132895,
+      "lon": 14.4437196,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "check_date": "2026-03-19",
+        "hairdresser": "barber",
+        "name": "Ta' Spiru Barber Shop",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/4515199290",
+      "type": "node",
+      "category": "beauty",
+      "name": "Tattoo studio",
+      "lat": 35.8731322,
+      "lon": 14.5160582,
+      "address": {
+        "housenumber": null,
+        "street": "Triq Ħaż-Żabbar",
+        "city": "Il-Fgura",
+        "postcode": null,
+        "country": "MT",
+        "full": "Triq Ħaż-Żabbar, Il-Fgura, MT"
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "addr:city": "Il-Fgura",
+        "addr:country": "MT",
+        "addr:street": "Triq Ħaż-Żabbar",
+        "name": "Tattoo studio",
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/13193549372",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "The Barber",
+      "lat": 35.897066,
+      "lon": 14.4613293,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "check_date": "2025-10-04",
+        "hairdresser": "barber",
+        "name": "The Barber",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/13789653334",
+      "type": "node",
+      "category": "beauty",
+      "name": "The Beauty Loft",
+      "lat": 35.9536227,
+      "lon": 14.3654633,
+      "address": {
+        "housenumber": "299",
+        "street": "Triq Ta' Masrija",
+        "city": "Il-Mellieħa",
+        "postcode": "MLH 1633",
+        "country": null,
+        "full": "299 Triq Ta' Masrija, MLH 1633, Il-Mellieħa"
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "addr:city": "Il-Mellieħa",
+        "addr:housenumber": "299",
+        "addr:postcode": "MLH 1633",
+        "addr:street": "Triq Ta' Masrija",
+        "name": "The Beauty Loft",
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/12347750268",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "The Blind Stag Barber",
+      "lat": 35.918839,
+      "lon": 14.4911299,
+      "address": {
+        "housenumber": "92",
+        "street": "Triq George Borg Olivier",
+        "city": "San Ġiljan",
+        "postcode": "STJ 1080",
+        "country": null,
+        "full": "92 Triq George Borg Olivier, STJ 1080, San Ġiljan"
+      },
+      "phone": "+356 2720 7119",
+      "website": null,
+      "email": null,
+      "openingHours": "Mo-Tu 10:00-19:00; We-Fr 09:00-19:00; Sa 10:00-17:00",
+      "tags": {
+        "addr:city": "San Ġiljan",
+        "addr:housenumber": "92",
+        "addr:postcode": "STJ 1080",
+        "addr:street": "Triq George Borg Olivier",
+        "air_conditioning": "yes",
+        "description": "Classic Gentleman Barbershop",
+        "hairdresser": "barber",
+        "male": "yes",
+        "name": "The Blind Stag Barber",
+        "opening_hours": "Mo-Tu 10:00-19:00; We-Fr 09:00-19:00; Sa 10:00-17:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+356 2720 7119",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/4657942089",
+      "type": "node",
+      "category": "beauty",
+      "name": "The Fadesman Barber & Salon",
+      "lat": 35.9056661,
+      "lon": 14.4267822,
+      "address": {
+        "housenumber": null,
+        "street": "Triq Lorenzo Gafà",
+        "city": null,
+        "postcode": "MST 4128",
+        "country": null,
+        "full": "Triq Lorenzo Gafà, MST 4128"
+      },
+      "phone": null,
+      "website": null,
+      "email": "thefadesman@gmail.com",
+      "openingHours": null,
+      "tags": {
+        "addr:postcode": "MST 4128",
+        "addr:street": "Triq Lorenzo Gafà",
+        "check_date": "2026-03-19",
+        "email": "thefadesman@gmail.com",
+        "internet_access": "wlan",
+        "mobile": "+356 7981 8999",
+        "name": "The Fadesman Barber & Salon",
+        "name:en": "The Fadesman Barber & Salon",
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/2817489713",
+      "type": "node",
+      "category": "beauty",
+      "name": "The Fish Lounge",
+      "lat": 35.9216251,
+      "lon": 14.4905764,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": "+356 2137 7444",
+      "website": "https://www.thefishlounge.com/",
+      "email": "info@theFishLounge.com",
+      "openingHours": "Mo-Su 12:00-20:00",
+      "tags": {
+        "check_date": "2025-06-19",
+        "email": "info@theFishLounge.com",
+        "name": "The Fish Lounge",
+        "opening_hours": "Mo-Su 12:00-20:00",
+        "phone": "+356 2137 7444",
+        "shop": "beauty",
+        "website": "https://www.thefishlounge.com/"
+      }
+    },
+    {
+      "osmId": "node/7038187046",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "The Hair Artist",
+      "lat": 35.9482022,
+      "lon": 14.4013553,
+      "address": {
+        "housenumber": "74",
+        "street": "Triq Parades",
+        "city": "San Pawl il-Baħar",
+        "postcode": "SPB 3433",
+        "country": "MT",
+        "full": "74 Triq Parades, SPB 3433, San Pawl il-Baħar, MT"
+      },
+      "phone": null,
+      "website": "https://www.stephthehairartist.com/",
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "addr:city": "San Pawl il-Baħar",
+        "addr:country": "MT",
+        "addr:housenumber": "74",
+        "addr:postcode": "SPB 3433",
+        "addr:street": "Triq Parades",
+        "check_date": "2025-09-21",
+        "female": "yes",
+        "male": "yes",
+        "mobile": "+356 7995 6720",
+        "name": "The Hair Artist",
+        "shop": "hairdresser",
+        "website": "https://www.stephthehairartist.com/"
+      }
+    },
+    {
+      "osmId": "node/4238875100",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "The Hair Lounge",
+      "lat": 35.9050738,
+      "lon": 14.4893153,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "internet_access": "wlan",
+        "name": "The Hair Lounge",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/13104556113",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "The Men's Room",
+      "lat": 35.8996074,
+      "lon": 14.4561465,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "check_date": "2025-08-28",
+        "hairdresser": "barber",
+        "name": "The Men's Room",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/8211225893",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "The Pro Barbers",
+      "lat": 35.8961812,
+      "lon": 14.4640204,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "check_date": "2025-08-28",
+        "male": "yes",
+        "name": "The Pro Barbers",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/13235996447",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Therese Unisex Salon",
+      "lat": 35.9026235,
+      "lon": 14.4535512,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "check_date": "2025-10-16",
+        "name": "Therese Unisex Salon",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/7139234093",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Trucco & Parrucco",
+      "lat": 35.8860988,
+      "lon": 14.5215358,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": "Tu,Th 15:00-23:00; We,Fr 09:00-17:00; Sa 09:00-18:00",
+      "tags": {
+        "name": "Trucco & Parrucco",
+        "opening_hours": "Tu,Th 15:00-23:00; We,Fr 09:00-17:00; Sa 09:00-18:00",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/11579038433",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Turkish Barber",
+      "lat": 35.9050925,
+      "lon": 14.4959308,
+      "address": {
+        "housenumber": "12",
+        "street": "Triq Sir William Reid",
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": "12 Triq Sir William Reid"
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "addr:housenumber": "12",
+        "addr:street": "Triq Sir William Reid",
+        "check_date": "2025-08-23",
+        "hairdresser": "barber",
+        "name": "Turkish Barber",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/7193701208",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Victoire",
+      "lat": 35.9079756,
+      "lon": 14.4789841,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "name": "Victoire",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/11579018230",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "VIP Barber Shop",
+      "lat": 35.9064183,
+      "lon": 14.4963304,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "hairdresser": "barber",
+        "name": "VIP Barber Shop",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/7140670918",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Vogue Hair by Maria",
+      "lat": 35.8888414,
+      "lon": 14.5158301,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "name": "Vogue Hair by Maria",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/13102979048",
+      "type": "node",
+      "category": "beauty",
+      "name": "Votre Beauté",
+      "lat": 35.9468112,
+      "lon": 14.4084678,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": "+356 2157 0885",
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "beauty": "nails",
+        "check_date": "2025-08-28",
+        "name": "Votre Beauté",
+        "phone": "+356 2157 0885",
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/5186176823",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Wings",
+      "lat": 35.8812321,
+      "lon": 14.4720621,
+      "address": {
+        "housenumber": null,
+        "street": "Pjazza San Frangisk",
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": "Pjazza San Frangisk"
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": "Mo-Fr 09:00-18:00; Sa 09:00-13:00",
+      "tags": {
+        "addr:street": "Pjazza San Frangisk",
+        "internet_access": "wlan",
+        "name": "Wings",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-13:00",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/13620735926",
+      "type": "node",
+      "category": "hairdresser",
+      "name": "Xagħar by Steph",
+      "lat": 35.9531149,
+      "lon": 14.3674914,
+      "address": {
+        "housenumber": null,
+        "street": "Triq l-Iżbark tal-Franċiżi",
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": "Triq l-Iżbark tal-Franċiżi"
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "addr:street": "Triq l-Iżbark tal-Franċiżi",
+        "name": "Xagħar by Steph",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "osmId": "node/7434024351",
+      "type": "node",
+      "category": "beauty",
+      "name": "Zernieq",
+      "lat": 35.842532,
+      "lon": 14.5423575,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "check_date": "2025-10-02",
+        "name": "Zernieq",
+        "shop": "beauty"
+      }
+    },
+    {
+      "osmId": "node/13009351098",
+      "type": "node",
+      "category": "beauty",
+      "name": "Zodiac Hair and Beauty",
+      "lat": 35.9029594,
+      "lon": 14.4937481,
+      "address": {
+        "housenumber": null,
+        "street": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "full": null
+      },
+      "phone": null,
+      "website": null,
+      "email": null,
+      "openingHours": null,
+      "tags": {
+        "name": "Zodiac Hair and Beauty",
+        "shop": "beauty"
+      }
+    }
+  ]
+}

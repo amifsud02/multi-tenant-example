@@ -10,6 +10,7 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+  --font-ui: var(--font-jakarta);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -23,4 +24,148 @@ body {
   background: var(--background);
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
+}
+
+/* --------------------------------------------------------------------------
+   Marketplace (Fresha-inspired) — scoped under .mkt
+   -------------------------------------------------------------------------- */
+.mkt {
+  font-family: var(--font-jakarta), system-ui, sans-serif;
+  --ink: #1a1414;
+  --muted: #6b6463;
+  --line: #ece8e6;
+  --paper: #fbf9f8;
+}
+
+/* Heavy geometric display for the wordmark + hero headline. */
+.mkt-display {
+  font-family: var(--font-jakarta), system-ui, sans-serif;
+  font-weight: 800;
+  letter-spacing: -0.035em;
+}
+
+/* Soft lavender → pink gradient band behind the hero. */
+.mkt-hero {
+  background:
+    radial-gradient(80% 120% at 0% 0%, #e7e2ff 0%, transparent 50%),
+    radial-gradient(70% 110% at 100% 95%, #ffdcee 0%, transparent 55%),
+    radial-gradient(90% 130% at 100% 0%, #ffffff 0%, transparent 45%),
+    linear-gradient(115deg, #eee9ff 0%, #fbf4fb 55%, #ffe7f2 100%);
+}
+.mkt-hero-soft {
+  background:
+    radial-gradient(70% 120% at 0% 0%, #ece8ff 0%, transparent 55%),
+    radial-gradient(60% 110% at 100% 100%, #ffe1ef 0%, transparent 55%),
+    linear-gradient(115deg, #f1edff 0%, #fcf6fb 55%, #ffeef5 100%);
+}
+
+/* Venue card -------------------------------------------------------------- */
+.mkt-card {
+  animation: mkt-rise 0.4s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+@keyframes mkt-rise {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.mkt-card-inner {
+  transition:
+    transform 0.25s cubic-bezier(0.22, 1, 0.36, 1),
+    box-shadow 0.25s ease,
+    border-color 0.2s ease;
+}
+.mkt-card-inner:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 14px 32px -16px rgba(26, 20, 20, 0.35);
+}
+.mkt-cover {
+  position: relative;
+  overflow: hidden;
+}
+.mkt-cover::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(
+    120% 90% at 80% 10%,
+    rgba(255, 255, 255, 0.35),
+    transparent 55%
+  );
+}
+.mkt-cover-icon {
+  transition: transform 0.4s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.mkt-card-inner:hover .mkt-cover-icon {
+  transform: scale(1.08) rotate(-3deg);
+}
+
+/* Thin, unobtrusive scrollbar for the results column --------------------- */
+.mkt-scroll {
+  scrollbar-width: thin;
+  scrollbar-color: #d9d3d1 transparent;
+}
+.mkt-scroll::-webkit-scrollbar {
+  width: 8px;
+}
+.mkt-scroll::-webkit-scrollbar-thumb {
+  background: #ddd6d3;
+  border-radius: 9999px;
+  border: 2px solid transparent;
+  background-clip: padding-box;
+}
+.mkt-scroll::-webkit-scrollbar-thumb:hover {
+  background: #c9c0bd;
+  background-clip: padding-box;
+}
+
+/* Hide scrollbar on the horizontal category rail ------------------------- */
+.mkt-rail {
+  scrollbar-width: none;
+}
+.mkt-rail::-webkit-scrollbar {
+  display: none;
+}
+
+/* --- Map popup (matches the marketplace type system) --- */
+.mapboxgl-popup-content {
+  border-radius: 14px !important;
+  padding: 10px 13px !important;
+  box-shadow: 0 12px 30px -12px rgba(26, 20, 20, 0.4) !important;
+  border: 1px solid #ece8e6;
+}
+.biz-popup {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  font-family: var(--font-jakarta), sans-serif;
+}
+.biz-popup .biz-popup-icon {
+  display: grid;
+  place-items: center;
+  width: 30px;
+  height: 30px;
+  border-radius: 9px;
+  font-size: 15px;
+  flex-shrink: 0;
+}
+.biz-popup .biz-popup-text {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  min-width: 0;
+}
+.biz-popup strong {
+  font-size: 13px;
+  font-weight: 600;
+  color: #1a1414;
+  line-height: 1.2;
+}
+.biz-popup span {
+  font-size: 11px;
+  color: #6b6463;
 }
